@@ -10,7 +10,7 @@
 - [**Files**](#Files)
   - [carbles_v2_1.py](#carbles_v2_1)
   - [logic_v2_1.py](#logic_v2_1)
-  - [board_spaces.png](#board_spaces)
+  - [board_numbers.png](#board_numbers)
 - [**Bugs & Implementation**](#Bugs-and-Implementation)
   - [Bugs](#Bugs)
   - [Bug Testing](#Bug-Testing)
