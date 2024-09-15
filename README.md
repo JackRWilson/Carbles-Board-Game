@@ -11,7 +11,7 @@
   - [carbles_v2_1.py](carbles_v2_1)
   - [logic_v2_1.py](logic_v2_1)
   - [board_spaces.png](board_spaces)
-- [**Bugs & Implementation**](Bugs-&-Implementation)
+- [**Bugs & Implementation**](Bugs-and-Implementation)
   - [Bugs](Bugs)
   - [Bug Testing](Bug-Testing)
   - [Future Imlementation](Future-Implementation)
@@ -79,7 +79,7 @@ This is the main logic file that defines lots of functions and runs smaller loop
 ## board_numbers
 All the board spaces are coded as numbers but with underscores so they can be variables (_1, _2, _3...). board_numbers shows which number corresponds to which position on the game board.
 
-# Bugs & Implementation
+# Bugs and Implementation
 - This game isn't complete and still has lots of work to do.
 
 ## Bugs
